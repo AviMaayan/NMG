@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network name="drugs" backgroundcolor="0xffffff" edgeselectioncolor="0xF76541" nodeselectioncolor="0xF76541" fade="true" description="true" doubleclick="true" layoutmode="force">
+  <node id="1" name="lepirudin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drugthis drug is identical to natural hirudin except for substitution of leucine for isoleucine at the n-terminal end of the molecule and the absence of a sulfate group on the tyrosine at position 63. it is produced via yeast cells.</desc>
+  </node>
+  <node id="2" name="cetuximab" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>epidermal growth factor receptor binding fab. this drug is composed of the fv (variable; antigen-binding) regions of the 225 murine egfr monoclonal antibody specific for the n-terminal portion of human egfr with human igg1 heavy and kappa light chain constant (framework) regions.</desc>
+  </node>
+  <node id="3" name="sermorelin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug acetate is the acetate salt of an amidated synthetic 29-amino acid peptide (grf 1-29 nh 2 ) that corresponds to the amino-terminal segment of the naturally occurring human growth hormone-releasing hormone (ghrh or grf) consisting of 44 amino acid residues</desc>
+  </node>
+  <node id="4" name="urokinase" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>low molecular weight form of human this drug, that consists of an a chain of 2,000 daltons linked by a sulfhydryl bond to a b chain of 30,400 daltons. recombinant this drug plasminogen activator</desc>
+  </node>
+  <node id="5" name="antihemophilic_factor" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>human recombinant this drug (ahf) or factor viii, 2332 residues, glycosylated, produced by cho cells</desc>
+  </node>
+  <node id="6" name="interferon_gamma-1b" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>human this drug (140 residues), produced from e. coli. production of actimmune is achieved by fermentation of a genetically engineered escherichia coli bacterium containing the dna which encodes for the human protein. purification of the product is achieved by conventional column chromatography. </desc>
+  </node>
+  <node id="7" name="palifermin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a recombinant human keratinocyte growth factor (kgf). it is 140 residues long, and is produced using e. coli.</desc>
+  </node>
+  <node id="8" name="collagenase" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>the enzyme this drug is derived from fermentation of clostridium histolyticum</desc>
+  </node>
+  <node id="9" name="rasburicase" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a recombinant urate-oxidase enzyme produced by a genetically modified <i>saccharomyces cerevisiae</i> strain. the cdna coding for this drug was cloned from a strain of <i>aspergillus flavus</i>.</desc>
+  </node>
+  <node id="10" name="adalimumab" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a human monoclonal antibody against tnf-alpha. it is produced by recombinant dna technology using a mammalian cell expression system. it consists of 1330 amino acids and has a molecular weight of approximately 148 kilodaltons.</desc>
+  </node>
+  <node id="11" name="abciximab" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>fab fragment of the chimeric human-murine monoclonal antibody 7e3. this drug binds to the glycoprotein (gp) iib/iiia receptor of human platelets and inhibits platelet aggregation by preventing the binding of fibrinogen, von willebrand factor and other adhesive molecules.</desc>
+  </node>
+  <node id="12" name="drotrecogin_alfa" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is activated human protein c that is synthesized by recombinant dna technology. it is a glycoprotein of approximately 55 kilodalton molecular weight, consisting of a heavy chain and a light chain linked by a disulfide bond.</desc>
+  </node>
+  <node id="13" name="human_serum_albumin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug isolated from expired blood plasma</desc>
+  </node>
+  <node id="14" name="infliximab" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>tumor necrosis factor (tnf-alpha) binding antibody (chimeric igg1). it is composed of human constant and murine variable regions. this drug is produced by a recombinant cell line cultured by continuous perfusion</desc>
+  </node>
+  <node id="15" name="vasopressin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>antidiuretic hormone, also known as this drug, is a nine amino acid peptide secreted from the posterior pituitary. antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation</desc>
+  </node>
+  <node id="16" name="hyaluronidase" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>highly purified sheep this drug for administration by injection into the vitreous of the eye.</desc>
+  </node>
+  <node id="17" name="digoxin_immune_fab" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a sheep antibody (26-10) fab fragment from sheep immunized with the digoxin derivative digoxindicarboxymethylamine. it is used as an antidote for overdose of digoxin.</desc>
+  </node>
+  <node id="18" name="streptokinase" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, is a sterile, purified preparation of a bacterial protein elaborated by group c (beta) -hemolytic streptococci.</desc>
+  </node>
+  <node id="19" name="efalizumab" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>humanized igg1 kappa isotype monoclonal antibody that binds to human cd11a. this drug has a molecular weight of approximately 150 kilodaltons and is produced in a chinese hamster ovary mammalian cell expression system in a nutrient medium containing the antibiotic gentamicin.</desc>
+  </node>
+  <node id="20" name="serum_albumin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a sterile non-pyrogenic suspension of microspheres of human this drug with perflutren (a highly fluorinated small molecule) for contrast enhancement during indicated ultrasound imaging procedures.</desc>
+  </node>
+  <node id="21" name="octreotide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the acetate salt of a cyclic octapeptide. it is a long-acting octapeptide with pharmacologic properties mimicking those of the natural hormone somatostatin.</desc>
+  </node>
+  <node id="22" name="pyridoxal_phosphate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this is the active form of vitamin b6 serving as a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. during transamination of amino acids, this drug is transiently converted into pyridoxamine phosphate (pyridoxamine). </desc>
+  </node>
+  <node id="23" name="tetrahydrofolic_acid" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a folic acid derivative. it is produced from dihydrofolic acid by dihydrofolate reductase.</desc>
+  </node>
+  <node id="24" name="choline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a basic constituent of lecithin that is found in many plants and animal organs. it is important as a precursor of acetylthis drug, as a methyl donor in various metabolic processes, and in lipid metabolism. </desc>
+  </node>
+  <node id="25" name="l-lysine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (abbreviated as lys or k)[1] is an α-amino acid with the chemical formula ho2cch(nh2)(ch2)4nh2. this amino acid is an essential amino acid, which means that humans cannot synthesize it. its codons are aaa and aag.</desc>
+  </node>
+  <node id="26" name="l-ornithine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>ornithine is an amino acid produced in the urea cycle by the splitting off of urea from arginine. it is a central part of the urea cycle, which allows for the disposal of excess nitrogen. this drug is a precursor of citrulline and arginine.</desc>
+  </node>
+  <node id="27" name="alpha-linolenic_acid" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (ala) is a polyunsaturated omega-3 fatty acid. it is a component of many common vegetable oils and is important to human nutrition. </desc>
+  </node>
+  <node id="28" name="pyridoxal" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>the 4-carboxyaldehyde form of vitamin b 6 which is converted to this drug phosphate which is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. </desc>
+  </node>
+  <node id="29" name="creatine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an amino acid that occurs in vertebrate tissues and in urine.  in muscle tissue, this drug generally occurs as phosphothis drug.  this drug is excreted as creatinine in the urine. </desc>
+  </node>
+  <node id="30" name="ergocalciferol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (vitamin d2) is a derivative of ergosterol formed by ultraviolet rays breaking of the c9-c10 bond. it differs from cholecalciferol in having a double bond between c22 and c23 and a methyl group at c24. </desc>
+  </node>
+  <node id="31" name="folic_acid" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a member of the vitamin b family that stimulates the hematopoietic system. it is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (poaceae). this drug is used in the treatment and prevention of folate deficiencies and megaloblastic anemia. </desc>
+  </node>
+  <node id="32" name="adenosine_triphosphate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an adenine nucleotide containing three phosphate groups esterified to the sugar moiety. in addition to its crucial roles in metabolism this drug is a neurotransmitter. </desc>
+  </node>
+  <node id="33" name="adenine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a purine base and a fundamental unit of this drug nucleotides. </desc>
+  </node>
+  <node id="34" name="fluvoxamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antidepressant which functions pharmacologically as a selective serotonin reuptake inhibitor. though it is in the same class as other ssri drugs, it is most often used to treat obsessive-compulsive disorder.</desc>
+  </node>
+  <node id="35" name="flunisolide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (marketed as aerobid, nasalide, nasarel) is a corticosteroid often prescribed as treatment for allergic rhinitis.</desc>
+  </node>
+  <node id="36" name="nicotine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is highly toxic alkaloid. it is the prototypical agonist at nicotinic cholinergic receptors where it dramatically stimulates neurons and ultimately blocks synaptic transmission. this drug is also important medically because of its presence in tobacco smoke. </desc>
+  </node>
+  <node id="37" name="cevimeline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a parasympathomimetic and muscarinic agonist, with particular effect on m3 receptors. it is indicated by the food and drug administration for the treatment of dry mouth associated with sjögren's syndrome. </desc>
+  </node>
+  <node id="38" name="esmolol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (trade name brevibloc) is a cardioselective beta1 receptor blocker with rapid onset, a very short duration of action, and no significant intrinsic sympathomimetic or membrane stabilising activity at therapeutic dosages.</desc>
+  </node>
+  <node id="39" name="ethchlorvynol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a sedative and hypnotic drug. it has been used to treat insomnia, but has been largely superseded and is only offered where an intolerance or allergy to other drugs exists. </desc>
+  </node>
+  <node id="40" name="indecainide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a rarely used antidysrhythmic. this drug has local anesthetic activity and belongs to the membrane stabilizing (class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the ic class of antiarrhythmics.</desc>
+  </node>
+  <node id="41" name="troglitazone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug was withdrawn in 2000 due to risk of hepatotoxicity. it was superseded by pioglitazone and rosiglitazone.</desc>
+  </node>
+  <node id="42" name="trospium" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a urinary antispasmodic. it is sold under the brand name sanctura in the us, and as trosec in canada. </desc>
+  </node>
+  <node id="43" name="adapalene" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a topical retinoid primarily used in the treatment of acne and is also used (off-label) to treat keratosis pilaris as well as other skin conditions. it is currently marketed by galderma under the trade names differin in some countries, and adaferin in india. </desc>
+  </node>
+  <node id="44" name="remikiren" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an orally active, high specificity renin inhibitor.</desc>
+  </node>
+  <node id="45" name="pantoprazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a proton pump inhibitor drug used for short-term treatment of erosion and ulceration of the esophagus caused by gastroesophageal reflux disease.</desc>
+  </node>
+  <node id="46" name="torasemide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (rinn) or torsemide (usan) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. it is also used at low doses for the management of hypertension. it is marketed under the brand name demadex. </desc>
+  </node>
+  <node id="47" name="eletriptan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a second generation triptan drug developed by pfizer inc for the treatment of migraine headaches. </desc>
+  </node>
+  <node id="48" name="moxifloxacin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic fluoroquinolone antibiotic agent. bayer ag developed the drug (initially called bay 12-8039) and it is marketed worldwide (as the hydrochloride) under the brand name avelox (in some countries also avalox) for oral treatment.</desc>
+  </node>
+  <node id="49" name="isoetharine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a selective adrenergic beta-2 agonist used as fast acting bronchodilator for emphysema, bronchitis and asthma. </desc>
+  </node>
+  <node id="50" name="glimepiride" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the first iii generation sulphonyl urea it is a very potent sulphonyl urea with long duration of action.</desc>
+  </node>
+  <node id="51" name="diflorasone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a topical corticosteroid used to treat itching and inflammation of the skin.</desc>
+  </node>
+  <node id="52" name="gadodiamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a gadolinium based contrast agent used in mr imaging procedures to assist in the visualization of blood vessels. it is commonly marketed under the trade name omniscan. </desc>
+  </node>
+  <node id="53" name="milrinone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a positive inotropic cardiotonic agent with vasodilator properties. it inhibits camp phosphodiesterase activity in myocardium and vascular smooth muscle. this drug is a derivative of amrinone and has 20-30 times the ionotropic potency of amrinone. </desc>
+  </node>
+  <node id="54" name="oxiconazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug nitrate (u.s.: oxistat, canada: oxizole) is an antifungal medication typically administered in a cream or lotion to treat skin infections such as athlete's foot, jock itch and ringworm. </desc>
+  </node>
+  <node id="55" name="alclometasone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is synthetic glucocorticoid steroid for topical use in dermatology as anti-inflammatory, antipruritic, antiallergic, antiproliferative and vasoconstrictive agent. </desc>
+  </node>
+  <node id="56" name="ranolazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antianginal medication. on january 31, 2006, this drug was approved for use in the united states by the fda for the treatment of chronic angina. </desc>
+  </node>
+  <node id="57" name="cabergoline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, an ergot derivative, is a long-acting dopamine agonist and prolactin inhibitor. it is used to treat hyperprolactinemic disorders and parkinsonian syndrome. this drug possesses potent agonist activity on dopamine d2 receptors.</desc>
+  </node>
+  <node id="58" name="terconazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anti-fungal medication, primarily used to treat vaginal fungal infections. </desc>
+  </node>
+  <node id="59" name="medrysone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a corticosteroid used in ophthalmology. </desc>
+  </node>
+  <node id="60" name="diethylstilbestrol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a synthetic nonsteroidal estrogen used in the treatment of menopausal and postmenopausal disorders. it was also used formerly as a growth promoter in animals. according to the fourth annual report on carcinogens (ntp 85-002, 1985), this drug has been listed as a known carcinogen. (merck, 11th ed)</desc>
+  </node>
+  <node id="61" name="calcium_acetate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>the chemical compound this drug is the calcium salt of acetic acid. an older name is acetate of lime. the anhydrous form is very hygroscopic, therefore the monohydrate is the common form. </desc>
+  </node>
+  <node id="62" name="sulfanilamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a molecule containing the sulfonamide functional group attached to an aniline. </desc>
+  </node>
+  <node id="63" name="anagrelide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug used for the treatment of essential thrombocytosis (et; essential thrombocythemia). it also has been used in the treatment of chronic myeloid leukemia. </desc>
+  </node>
+  <node id="64" name="crotamiton" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a scabicidal and antipruritic agent available as a cream or lotion for topical use only. it is a colorless to slightly yellowish oil, having a faint amine-like odor. it is miscible with alcohol and with methanol.</desc>
+  </node>
+  <node id="65" name="cefmenoxime" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a third-generation cephalosporin antibiotic. </desc>
+  </node>
+  <node id="66" name="ropinirole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a non-ergoline dopamine agonist, manufactured by glaxosmithkline. it is used in the treatment of parkinson's disease, and is also one of two medications in the united states with an fda-approved indication for the treatment of restless legs syndrome (the other being pramipexole). </desc>
+  </node>
+  <node id="67" name="diatrizoate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a commonly used x-ray contrast medium.  as this drug meglumine and as this drug sodium, it is used for gastrointestinal studies, angiography, and urography. </desc>
+  </node>
+  <node id="68" name="olmesartan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antihypertensive agent which belongs to the class of medicines called angiotensin ii receptor antagonists. it acts rapidly to lower high blood pressure. it is marketed worldwide by daiichi sankyo, ltd. and in the united states by daiichi sankyo, inc. and forest laboratories.</desc>
+  </node>
+  <node id="69" name="pamidronate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>pamidronic acid (inn) or this drug disodium (usan), marketed as this drug disodium pentahydrate under the brand name aredia, is a bisphosphonate. </desc>
+  </node>
+  <node id="70" name="travoprost" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. it is a synthetic prostaglandin f2alpha analogue. </desc>
+  </node>
+  <node id="71" name="amcinonide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a corticosteroid. </desc>
+  </node>
+  <node id="72" name="bleomycin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a complex of related glycopeptide antibiotics from <i>streptomyces verticillus</i> consisting of this drug a2 and b2. it inhibits dna metabolism and is used as an antineoplastic, especially for solid tumors. </desc>
+  </node>
+  <node id="73" name="raltitrexed" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (brand name tomudex&reg;) is a chemotherapy drug manufactured astrazeneca company, is an antimetabolite used in chemotherapy. it is an inhibitor of thymidylate synthase.</desc>
+  </node>
+  <node id="74" name="etonogestrel" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a molecule used in hormonal contraceptives, most notably the subdermal implant implanon. </desc>
+  </node>
+  <node id="75" name="morphine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>the principal alkaloid in opium and the prototype opiate analgesic and narcotic. this drug has widespread effects in the central nervous system and on smooth muscle. </desc>
+  </node>
+  <node id="76" name="ropivacaine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a local anaesthetic drug belonging to the amino amide group. the name this drug refers to both the racemate and the marketed s-enantiomer. this drug hydrochloride is commonly marketed by astrazeneca under the trade name naropin. </desc>
+  </node>
+  <node id="77" name="dapiprazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (u.s. trade name rev-eyes) is an alpha blocker. it is used to reverse mydriasis after eye examination. </desc>
+  </node>
+  <node id="78" name="penciclovir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a guanine analogue antiviral drug used for the treatment of various herpesvirus infections. it is a nucleoside analogue which exhibits low toxicity and good selectivity. </desc>
+  </node>
+  <node id="79" name="tenofovir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, marketed by gilead sciences under the trade name viread&reg;, belongs to a class of antiretroviral drugs known as nucleotide analogue reverse transcriptase inhibitors (nrtis), which block reverse transcriptase, an enzyme crucial to viral production in hiv-infected people. </desc>
+  </node>
+  <node id="80" name="ertapenem" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a carbapenem antibiotic marketed by merck as invanz&reg;. it is structurally very similar to meropenem in that it possess a 1-beta-methyl group. </desc>
+  </node>
+  <node id="81" name="talbutal" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, also called 5-allyl-5-sec-butylbarbituric acid, is a barbiturate with a short to intermediate duration of action. this drug is a schedule iii drug in the u.s.</desc>
+  </node>
+  <node id="82" name="bexarotene" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (targretin) is an antineoplastic agent indicated by the fda for cutaneous t cell lymphoma. it has been used off-label for lung cancer, breast cancer, and kaposi's sarcoma. </desc>
+  </node>
+  <node id="83" name="ibutilide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a class iii antiarrhythmic agent that is indicated for acute cardioconversion of atrial fibrillation and atrial flutter of a recent onset to sinus rhythm. </desc>
+  </node>
+  <node id="84" name="vindesine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>vinblastine derivative with antineoplastic activity against cancer. major side effects are myelosuppression and neurotoxicity. this drug is used extensively in chemotherapy protocols (antineoplastic combined chemotherapy protocols). </desc>
+  </node>
+  <node id="85" name="zolmitriptan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. </desc>
+  </node>
+  <node id="86" name="acetaminophen" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.</desc>
+  </node>
+  <node id="87" name="gefitinib" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (originally coded zd1839) is a drug used in the treatment of certain types of cancer. acting in a similar manner to erlotinib (marketed as tarceva), this drug selectively targets the mutant proteins in malignant cells. it is marketed by astrazeneca under the trade name iressa. </desc>
+  </node>
+  <node id="88" name="nitroprusside" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug serves as a source of nitric oxide, a potent peripheral vasodilator that affects both arterioles and venules (venules more than arterioles). this drug is often administered intravenously to patients who are experiencing a hypertensive emergency. </desc>
+  </node>
+  <node id="89" name="olanzapine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an atypical antipsychotic, approved by the fda in 1996. this drug is manufactured and marketed by the pharmaceutical company eli lilly and company, whose patent for this drug proper ends in 2011.</desc>
+  </node>
+  <node id="90" name="nitrofurazone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a topical anti-infective agent effective against gram-negative and gram-positive bacteria. it is used for superficial wounds, burns, ulcers, and skin infections. this drug has also been administered orally in the treatment of trypanosomiasis. </desc>
+  </node>
+  <node id="91" name="pimecrolimus" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an immunomodulating agent used in the treatment of atopic dermatitis (eczema). it is currently available as a topical cream, once marketed by novartis, (however galderma will be promoting the molecule in canada in early 2007) under the trade name elidel. </desc>
+  </node>
+  <node id="92" name="metixene" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (or methixene) is a anticholinergic used as an anti-parkinson drug. </desc>
+  </node>
+  <node id="93" name="terfenadine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>in the u.s., this drug was superseded by fexofenadine in the 1990s due to the risk of cardiac arrhythmia caused by qt interval prolongation.</desc>
+  </node>
+  <node id="94" name="alfuzosin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (inn, provided as the hydrochloride salt) is an alpha-adrenergic blocker used to treat benign prostatic hyperplasia (bph). it works by relaxing the muscles in the prostate and bladder neck, making it easier to urinate. </desc>
+  </node>
+  <node id="95" name="nitisinone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic reversible inhibitor of 4-hydroxyphenylpyruvate dioxygenase. it is used in the treatment of hereditary tyrosinemia type 1. it is sold under the brand name orfadin. </desc>
+  </node>
+  <node id="96" name="clobazam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug which is a benzodiazepine derivative. it has been marketed as an anxiolytic since 1975 and an anticonvulsant since 1984. </desc>
+  </node>
+  <node id="97" name="buclizine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antihistamine of the piperazine derivative family. </desc>
+  </node>
+  <node id="98" name="vinorelbine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (navelbine&reg;) is an anti-mitotic chemotherapy drug that is given as a treatment for some types of cancer, including breast cancer and non-small cell lung cancer. </desc>
+  </node>
+  <node id="99" name="anidulafungin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug or eraxis is an anti-fungal drug manufactured by pfizer that gained approval by the food and drug administration (fda) in february 21, 2006; it was previously known as ly303366. there is preliminary evidence that it has a similar safety profile to caspofungin. </desc>
+  </node>
+  <node id="100" name="doxylamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>histamine h1 antagonist with pronounced sedative properties. it is used in allergies and as an antitussive, antiemetic, and hypnotic. this drug has also been administered in veterinary applications and was formerly used in parkinsonism. </desc>
+  </node>
+  <node id="101" name="cidofovir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an injectable antiviral medication for the treatment of cytomegalovirus (cmv) retinitis in patients with aids. it suppresses cmv replication by selective inhibition of viral dna synthesis. </desc>
+  </node>
+  <node id="102" name="timolol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a beta-adrenergic antagonist similar in action to propranolol. the levo-isomer is the more active. this drug has been proposed as an antihypertensive, antiarrhythmic, antiangina, and antiglaucoma agent. it is also used in the treatment of migraine disorders and tremor. </desc>
+  </node>
+  <node id="103" name="treprostinil" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic analogue of prostacyclin, used to treat pulmonary hypertension. this drug is marketed as remodulin&reg;. </desc>
+  </node>
+  <node id="104" name="dydrogesterone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a synthetic progestational hormone with no androgenic or estrogenic properties. unlike many other progestational compounds, this drug produces no increase in temperature and does not inhibit ovulation. </desc>
+  </node>
+  <node id="105" name="dexrazoxane" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an antimitotic agent with immunosuppressive properties. this drug, the (+)-enantiomorph of razoxane, provides cardioprotection against anthracycline toxicity. it appears to inhibit formation of a toxic iron-anthracycline complex. </desc>
+  </node>
+  <node id="106" name="oxyphencyclimine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anticholinergic drug (trade name daricon) used in treating peptic ulcers.</desc>
+  </node>
+  <node id="107" name="valrubicin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (n-trifluoroacetyladriamycin-14-valerate, valstar&reg;) is a chemotherapy drug used to treat bladder cancer. this drug is a semisynthetic analog of the anthracycline doxorubicin, and is administered by infusion directly into the bladder. </desc>
+  </node>
+  <node id="108" name="carbimazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an imidazole antithyroid agent. this drug is metabolized to methimazole, which is responsible for the antithyroid activity. </desc>
+  </node>
+  <node id="109" name="ethopropazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (also known as profenamine hydrochloride) is a medication derived from phenothiazine. it is primarily used as an antidyskinetic to treat parkinsonism. it is sold under the trade names parsidol in the united states and parsidan in canada.</desc>
+  </node>
+  <node id="110" name="phenylpropanolamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug has been withdrawn in canada. in november 2000, the food and drug administration (fda) issued a public health advisory against the use of the drug.</desc>
+  </node>
+  <node id="111" name="griseofulvin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an antifungal antibiotic. this drug may be given by mouth in the treatment of tinea infections. </desc>
+  </node>
+  <node id="112" name="eszopiclone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, marketed by sepracor under the brand-name lunesta, is a nonbenzodiazepine hypnotic agent (viz., a sedative) used as a treatment for insomnia. this drug is the active stereoisomer of zopiclone, and belongs to the class of drugs known as cyclopyrrones.</desc>
+  </node>
+  <node id="113" name="dexbrompheniramine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug maleate is an antihistamine used to treat allergic conditions such as hay fever or urticaria.</desc>
+  </node>
+  <node id="114" name="mupirocin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (pseudomonic acid a, or bactroban or centany) is an antibiotic originally isolated from pseudomonas fluorescens. it is used topically, and is primarily effective against gram-positive bacteria. this drug is bacteriostatic at low concentrations and bactericidal at high concentrations.</desc>
+  </node>
+  <node id="115" name="rosiglitazone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anti-diabetic drug in the thiazolidinedione class of drugs. it is marketed by the pharmaceutical company glaxosmithkline as a stand-alone drug (avandia) and in combination with metformin (avandamet) or with glimepiride (avandaryl).</desc>
+  </node>
+  <node id="116" name="penicillin_v" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is narrow spectrum antibiotic used to treat mild to moderate infections caused by susceptible bacteria. it is a natural penicillin antibiotic that is administered orally. this drug may also be used in some cases as prophylaxis against susceptible organisms.</desc>
+  </node>
+  <node id="117" name="secobarbital" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (marketed by eli lilly and company under the brand names seconal® and tuinal) is a barbiturate derivative drug. it possesses anaesthetic, anticonvulsant, sedative and hypnotic properties. in the united kingdom, it was known as quinalbarbitone.</desc>
+  </node>
+  <node id="118" name="miglustat" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug used to treat gaucher disease.</desc>
+  </node>
+  <node id="119" name="promazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a phenothiazine with actions similar to chlorthis drug but with less antipsychotic activity. it is primarily used in short-term treatment of disturbed behavior and as an antiemetic. </desc>
+  </node>
+  <node id="120" name="hyoscyamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a chemical compound, a tropane alkaloid it is the levo-isomer to atropine. it is a secondary metabolite of some plants, particularly henbane (hyoscamus niger.)</desc>
+  </node>
+  <node id="121" name="famciclovir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a guanine analogue antiviral drug used for the treatment of various herpes virus infections, most commonly for herpes zoster (shingles). it is a prodrug form of penciclovir with improved oral bioavailability. this drug is marketed under the trade name famvir (novartis).</desc>
+  </node>
+  <node id="122" name="cefpiramide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a third-generation cephalosporin antibiotic.</desc>
+  </node>
+  <node id="123" name="entecavir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an oral antiviral drug used in the treatment of hepatitis b infection. it is marketed under the trade name baraclude (bms).</desc>
+  </node>
+  <node id="124" name="loracarbef" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a carbacephem antibiotic sometimes grouped together with the second-generation cephalosporin antibiotics. it is marketed under the trade name lorabid.</desc>
+  </node>
+  <node id="125" name="lansoprazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a proton pump inhibitor which prevents the stomach from producing acid. it is manufactured by tap pharmaceutical products. this drug has been marketed for many years and is one of several ppi's available.</desc>
+  </node>
+  <node id="126" name="dipivefrin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a prodrug of adrenaline, which is used to treat glaucoma. it is available as ophthalmic solution (eye drops).</desc>
+  </node>
+  <node id="127" name="clomocycline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a tetracycline antibiotic.</desc>
+  </node>
+  <node id="128" name="loratadine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a derivative of azatadine and a second-generation histamine h1 receptor antagonist used in the treatment of allergic rhinitis and urticaria. unlike most classical antihistamines (histamine h1 antagonists) it lacks central nervous system depressing effects such as drowsiness. </desc>
+  </node>
+  <node id="129" name="nabumetone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a nonsteroidal anti-inflammatory drug (nsaid) of the arylalkanoic acid family (which includes diclofenac). marketed under the brand name relafen, it has been shown to have a slightly lower risk of gastrointestinal side effects than most other non-selective nsaids.</desc>
+  </node>
+  <node id="130" name="metharbital" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug was patented in 1905 by emil fischer working for merck. it was marketed as gemonil by abbott laboratories. it is a barbiturate anticonvulsant, used in the treatment of epilepsy. it has similar properties to phenobarbital.</desc>
+  </node>
+  <node id="131" name="tenoxicam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, an antiinflammatory agent with analgesic and antipyretic properties, is used to treat osteoarthritis and control acute pain.</desc>
+  </node>
+  <node id="132" name="brimonidine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug used to treat glaucoma. it acts via decreasing aqueous humor synthesis. </desc>
+  </node>
+  <node id="133" name="darifenacin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (enablex®, novartis) is a medication used to treat urinary incontinence.</desc>
+  </node>
+  <node id="134" name="phenindione" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an indandione that has been used as an anticoagulant. this drug has actions similar to warfarin, but it is now rarely employed because of its higher incidence of severe adverse effects. (from martindale, the extra pharmacopoeia, 30th ed, p234)</desc>
+  </node>
+  <node id="135" name="tridihexethyl" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic anticholinergic agent which has been shown in experimental and clinical studies to have a pronounced antispasmodic and antisecretory effect on the gastrointestinal tract. this drug is an antimuscarinic, anticholinergic drug.</desc>
+  </node>
+  <node id="136" name="norgestrel" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a synthetic progestational hormone with actions similar to those of progesterone and about twice as potent as its racemic or (+-)-isomer (this drug). it is used for contraception, control of menstrual disorders, and treatment of endometriosis. </desc>
+  </node>
+  <node id="137" name="bentoquatam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a topical medication intended to act as a shield against exposure to the irritating substance urushiol, found in plants such as poison ivy or poison oak. this drug contains bentonite, a clay, and is only effective as long as the film is visible on the skin.</desc>
+  </node>
+  <node id="138" name="lercanidipine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a calcium channel blocker of the dihydropyridine class.</desc>
+  </node>
+  <node id="139" name="foscarnet" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an antiviral agent used in the treatment of cytomegalovirus retinitis. this drug also shows activity against human herpesviruses and hiv. </desc>
+  </node>
+  <node id="140" name="erlotinib" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug hydrochloride (trade name tarceva, genentech/osip, originally coded as osi-774) is a drug used to treat non-small cell lung cancer, pancreatic cancer and several other types of cancer.</desc>
+  </node>
+  <node id="141" name="rofecoxib" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>on september 30, 2004, merck voluntarily withdrew this drug from the market because of concerns about increased risk of heart attack and stroke associated with long-term, high-dosage use.</desc>
+  </node>
+  <node id="142" name="chlormerodrin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a mercurial compound with toxic side effects that was previously used as a diuretic. the radiolabeled form has been used as a diagnostic and research tool. it is no longer used and has been replaced with new classes of diuretic drugs.</desc>
+  </node>
+  <node id="143" name="gadoversetamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a gadolinium compound used as a contrast agent in magnetic resonance imaging (mri), particularly imaging of the brain, spine and liver. it is marketed under the trade name optimark.</desc>
+  </node>
+  <node id="144" name="adinazolam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (deracyn®) is a benzodiazepine derivative. it possesses anxiolytic, anticonvulsant, sedative, and antidepressant properties. this drug was developed by dr. jackson b. hester, who was seeking to enhance the antidepressant properties of alprazolam, which he also developed.</desc>
+  </node>
+  <node id="145" name="cinnarizine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anti-histaminic drug which is mainly used for the control of vomiting due to motion sickness. this drug was first synthesized by janssen pharmaceutica in 1955.</desc>
+  </node>
+  <node id="146" name="fenfluramine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug was withdrawn from the u.s. market in 1997 after reports of heart valve disease and pulmonary hypertension, including a condition known as cardiac fibrosis.</desc>
+  </node>
+  <node id="147" name="valaciclovir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (inn) or valacyclovir (usan) is an antiviral drug used in the management of herpes simplex and herpes zoster (shingles). it is a prodrug, being converted in vivo to aciclovir. it is marketed by glaxosmithkline under the trade name valtrex or zelitrex. </desc>
+  </node>
+  <node id="148" name="valdecoxib" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug was removed from the canadian, u.s., and e.u. markets in 2005 due to concerns about possible increased risk of heart attack and stroke.</desc>
+  </node>
+  <node id="149" name="fluticasone_propionate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, a medium-potency synthetic corticosteroid, is used topically to relieve inflammatory and pruritic symptoms of dermatoses and psoriasis, intranasally to manage symptoms of allergic and non-allergic rhinitis, and orally for the treatment of asthma.</desc>
+  </node>
+  <node id="150" name="piperazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an organic compound that consists of a six-membered ring containing two opposing nitrogen atoms. this drug exists as small alkaline deliquescent crystals with a saline taste.</desc>
+  </node>
+  <node id="151" name="monobenzone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the monobenzyl ether of hydroquinone used medically for depigmentation. this drug occurs as a white, almost tasteless crystalline powder, soluble in alcohol and practically insoluble in water.</desc>
+  </node>
+  <node id="152" name="cisapride" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>in many countries (including canada) this drug has been either withdrawn or has had its indications limited due to reports about long qt syndrome due to this drug, which predisposes to arrhythmias. the fda issued a warning letter regarding this risk to health care professionals and patients.</desc>
+  </node>
+  <node id="153" name="furazolidone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a nitrofuran derivative with antiprotozoal and antibacterial activity. this drug binds bacterial dna which leads to the gradual inhibition of monoamine oxidase. (from martindale, the extra pharmacopoeia, 30th ed, p514)</desc>
+  </node>
+  <node id="154" name="candoxatril" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the orally-active prodrug of this drugat (uk-73967), the active enantiomer of this drugat (uk-69578), a potent neutral endopeptidase (nep) inhibitor used in the treatment of chronic heart failure.</desc>
+  </node>
+  <node id="155" name="paramethadione" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anticonvulsant in the oxazolidinedione class. it is associated with fetal trimethadione syndrome, which is also known as this drug syndrome.</desc>
+  </node>
+  <node id="156" name="efavirenz" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (brand names sustiva® and stocrin®) is a non-nucleoside reverse transcriptase inhibitor (nnrti) and is used as part of highly active antiretroviral therapy (haart) for the treatment of a human immunodeficiency virus (hiv) type 1.</desc>
+  </node>
+  <node id="157" name="clofarabine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a purine nucleoside antimetabolite that is being studied in the treatment of cancer. it is marketed in the u.s. and canada as clolar. in europe and australia/new zealand the product is marketed under the name evoltra.</desc>
+  </node>
+  <node id="158" name="dexmedetomidine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an agonist of receptors, adrenergic alpha-2 that is used in veterinary medicine for its analgesic and sedative properties. it is the racemate of this drug. </desc>
+  </node>
+  <node id="159" name="astemizole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a long-acting, non-sedating second generation antihistamine used in the treatment of allergy symptoms. it was withdrawn from market by the manufacturer in 1999 due to the potential to cause arrhythmias at high doses, especially when  when taken with cyp inhibitors or grapefruit juice.</desc>
+  </node>
+  <node id="160" name="butoconazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an imidazole antifungal used in gynecology.</desc>
+  </node>
+  <node id="161" name="adenosine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a nucleoside that is composed of adenine and d-ribose. this drug or this drug derivatives play many important biological roles in addition to being components of dna and rna. this drug itself is a neurotransmitter. </desc>
+  </node>
+  <node id="162" name="pemetrexed" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (brand name alimta®) is a chemotherapy drug manufactured and marketed by eli lilly and company. its indications are the treatment of pleural mesothelioma as well as non-small cell lung cancer.</desc>
+  </node>
+  <node id="163" name="gonadorelin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is another name for gonadotropin-releasing hormone (gnrh). it is a synthetic decapeptide prepared using solid phase peptide synthesis. gnrh is responsible for the release of follicle stimulating hormone and leutinizing hormone from the anterior pitutitary.</desc>
+  </node>
+  <node id="164" name="dyclonine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an oral anaesthetic found in sucrets, an over the counter throat lozenge. it is also found in some varieties of the cepacol sore throat spray.</desc>
+  </node>
+  <node id="165" name="leucovorin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>the active metabolite of folic acid. this drug is used principally as its calcium salt as an antidote to folic acid antagonists which block the conversion of folic acid to folinic acid. </desc>
+  </node>
+  <node id="166" name="latanoprost" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. it is a prostaglandin analogue that works by increasing the outflow of aqueous fluid from the eyes.</desc>
+  </node>
+  <node id="167" name="mecamylamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a nicotinic antagonist that is well absorbed from the gastrointestinal tract and crosses the blood-brain barrier. this drug has been used as a ganglionic blocker in treating hypertension, but, like most ganglionic blockers, is more often used now as a research tool. </desc>
+  </node>
+  <node id="168" name="sevelamer" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a phosphate binding drug used to prevent hyperphosphataemia in patients with chronic renal failure. when taken with meals, this drug binds to dietary phosphate and prevents its absorption. it is marketed by genzyme under the trade name renagel.</desc>
+  </node>
+  <node id="169" name="nafarelin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a potent synthetic agonist of gonadotropin-releasing hormone with 3-(2-naphthyl)-d-alanine substitution at residue 6. this drug has been used in the treatments of central precocious puberty and endometriosis. </desc>
+  </node>
+  <node id="170" name="sumatriptan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a serotonin agonist that acts selectively at 5ht1 receptors. it is used in the treatment of migraine disorders. a transdermal patch version of this drug is currently in phase i trials in the u.s. under the code name np101 (nupathe).</desc>
+  </node>
+  <node id="171" name="tamoxifen" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>one of the selective estrogen receptor modulators with tissue-specific activities. this drug acts as an anti-estrogen (inhibiting agent) in the mammary tissue, but as an estrogen (stimulating agent) in cholesterol metabolism, bone density, and cell proliferation in the endometrium. </desc>
+  </node>
+  <node id="172" name="mycophenolate_mofetil" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the 2-morpholinoethyl ester of mycophenolic acid (mpa), an immunosuppressive agent, inosine monophosphate dehydrogenase (impdh) inhibitor.</desc>
+  </node>
+  <node id="173" name="amprenavir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a protease inhibitor used to treat hiv infection.</desc>
+  </node>
+  <node id="174" name="oxacillin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an antibiotic similar to fluclthis drug used in resistant staphylococci infections. </desc>
+  </node>
+  <node id="175" name="adefovir_dipivoxil" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, previously called bis-pom pmea, with trade names preveon and hepsera, is an orally-administered nucleotide analog reverse transcriptase inhibitor (ntrti) used for treatment of hepatitis b. it is a failed treatment for hiv. </desc>
+  </node>
+  <node id="176" name="diphemanil_methylsulfate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a quaternary ammonium anticholinergic. it binds muscarinic acetycholine receptors and thereby decreases secretory excretion of stomach acids as well as saliva and sweat.</desc>
+  </node>
+  <node id="177" name="naftifine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic, broad spectrum, antifungal agent and allylamine derivative for the topical treatment of tinea pedis, tinea cruris, and tinea corporis caused by the organisms trichophyton rubrum, trichophyton mentagrophytes, trichophyton tonsurans and epidermophyton floccosum.</desc>
+  </node>
+  <node id="178" name="etodolac" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a non-steroidal anti-inflammatory drug (nsaid) with anti-inflammatory, analgesic and antipyretic properties. its therapeutic effects are due to its ability to inhibit prostaglandin synthesis. it is indicated for relief of signs and symptoms of rheumatoid arthritis and osteoarthritis.</desc>
+  </node>
+  <node id="179" name="clopidogrel" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, an antiplatelet agent structurally and pharmacologically similar to ticlopidine, is used to reduce atherosclerotic events such as myocardial infarction, stroke, and vascular death in patients who have had a recent stroke, recent mi, or have established peripheral vascular disease.</desc>
+  </node>
+  <node id="180" name="meropenem" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a broad-spectrum carbapenem antibiotic. it is active against gram-positive and gram-negative bacteria. this drug exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death.</desc>
+  </node>
+  <node id="181" name="benzquinamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antiemetic compound with antihistaminic, mild anticholinergic, and sedative properties. the mechanism of action is not known, but presumably this drug works via antagonism of muscarinic acetycholine receptors and histamine h1 receptors.</desc>
+  </node>
+  <node id="182" name="tripelennamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a histamine h1 antagonist with low sedative action but frequent gastrointestinal irritation. it is used to treat asthma; hay fever; urticaria; and rhinitis; and also in veterinary applications. this drug is administered by various routes, including topically. </desc>
+  </node>
+  <node id="183" name="gentamicin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a complex of three different closely related aminoglycoside sulfates, this drugs c1, c2, and c1(suba), obtained from micromonospora purpurea and related species. they are broad-spectrum antibiotics, but may cause ear and kidney damage. they act to inhibit protein synthesis (genetic translation). </desc>
+  </node>
+  <node id="184" name="tazarotene" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (marketed as tazorac®, avage® and zorac®) is a prescription topical retinoid sold as a cream or gel. this medication is approved for treatment of psoriasis, acne, and sun damaged skin (photodamage). </desc>
+  </node>
+  <node id="185" name="colistin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>cyclic polypeptide antibiotic from bacillus this drugus. it is composed of polymyxins e1 and e2 (or this drugs a, b, and c) which act as detergents on cell membranes. this drug is less toxic than polymyxin b, but otherwise similar; the methanesulfonate is used orally. </desc>
+  </node>
+  <node id="186" name="pentoxifylline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a methylxanthine derivative that inhibits phosphodiesterase and affects blood rheology. it improves blood flow by increasing erythrocyte and leukocyte flexibility. it also inhibits platelet aggregation. this drug modulates immunologic activity by stimulating cytokine production. </desc>
+  </node>
+  <node id="187" name="proparacaine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a topical anesthetic drug of the amino ester group. it is available as its hydrochloride salt in ophthalmic solutions at a concentration of 0.5%. </desc>
+  </node>
+  <node id="188" name="fentanyl" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a potent narcotic analgesic, abuse of which leads to habituation or addiction. it is primarily a mu-opioid agonist. this drug is also used as an adjunct to general anesthetics, and as an anesthetic for induction and maintenance. (from martindale, the extra pharmacopoeia, 30th ed, p1078)</desc>
+  </node>
+  <node id="189" name="phensuximide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anticonvulsant in the succinimide class. it suppresses the paroxysmal three cycle per second spike and wave eeg pattern associated with lapses of consciousness in petit mal seizures. the frequency of attacks is reduced by depression of nerve transmission in the motor cortex.</desc>
+  </node>
+  <node id="190" name="clocortolone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a medium potency corticosteroid that is often used as a topical cream for the relief of inflammatory oand pruritic (itching) arising from steroid-responsive dermatoses of the scalp.</desc>
+  </node>
+  <node id="191" name="oxazepam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an intermediate-acting benzodiazepine used to treat alcohol withdrawal and anxiety disorders.</desc>
+  </node>
+  <node id="192" name="temozolomide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (temodar and temodal) is an oral alkylating agent used for the treatment of refractory anaplastic astrocytoma -- a type of cancerous brain tumor. this drug is not active until it is converted at physiologic ph to the active form, 5-(3-methyltriazen-1-yl)imidazole-4-carboxamide (mtic).</desc>
+  </node>
+  <node id="193" name="dromostanolone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a potent synthetic androgenic anabolic steroid similar to testosterone. this drug is indicated in postmenopausal women with recurrent breast cancer, in a combined hormone therapy.</desc>
+  </node>
+  <node id="194" name="dorzolamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a carbonic anhydrase (ca) inhibitor. it is used in ophthalmic solutions (trusopt) to lower intraocular pressure (iop) in open-angle glaucoma and ocular hypertension.</desc>
+  </node>
+  <node id="195" name="conivaptan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a non-peptide inhibitor of antidiuretic hormone (vasopressin). it was approved in 2004 for hyponatremia (low blood sodium levels) caused by syndrome of inappropriate antidiuretic hormone (siadh). this drug inhibits both isotypes of the vasopressin receptor (v1a and v2).</desc>
+  </node>
+  <node id="196" name="emtricitabine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a nucleoside reverse transcriptase inhibitor (nrti) for the treatment of hiv infection in adults. this drug is an analogue of cytidine. the drug works by inhibiting reverse transcriptase, the enzyme that copies hiv rna into new viral dna.</desc>
+  </node>
+  <node id="197" name="chlorothiazide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a thiazide diuretic with actions and uses similar to those of hydrothis drug. (from martindale, the extra pharmacopoeia, 30th ed, p812)</desc>
+  </node>
+  <node id="198" name="risedronate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat paget's disease of bone.</desc>
+  </node>
+  <node id="199" name="oxybuprocaine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the name of a local anesthetic, which is used especially in ophthalmology and otolaryngology. this drug binds to sodium channels and reversibly stabilizes the neuronal membrane which decreases its permeability to sodium ions.</desc>
+  </node>
+  <node id="200" name="iron_dextran" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a dark brown, slightly viscous liquid complex of ferric hydroxide and dextran for intravenous or intramuscular use. this drug is used for the treatment of patients with documented iron deficiency in which oral administration is unsatisfactory or impossible.</desc>
+  </node>
+  <node id="201" name="benzylpenicilloyl_polylysine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is used as a skin-testing reagent to detect immunoglobulin e antibodies in people with a history of penicillin allergy. the quantitation of in vitro ige antibodies to the benzylpenicilloyl determinant is a useful tool for evaluating allergic subjects.</desc>
+  </node>
+  <node id="202" name="rimexolone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a glucocorticoid steroid used to treat inflammation in the eye. it is marketed as a 1% eye drop solution under the trade name vexol</desc>
+  </node>
+  <node id="203" name="triazolam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>withdrawn in the united kingdom due to risk of psychiatric adverse drug reactions. this drug continues to be available in the u.s. internationally, this drug is a schedule iv drug under the convention on psychotropic substances.</desc>
+  </node>
+  <node id="204" name="bitolterol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug mesylate is a beta-2-adrenergic receptor agonist used for the relief of bronchospasm in conditions such as asthma and copd. this drug was withdrawn from the market by elan pharmaceuticals in 2001. </desc>
+  </node>
+  <node id="205" name="methdilazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a phenothiazine compound with antihistaminic activity. it is used in the treatment of various dermatoses to relieve pruritus.</desc>
+  </node>
+  <node id="206" name="tiagabine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anti-convulsive medication. it is also used in the treatment for panic disorder as are a few other anticonvulsants. though the exact mechanism by which this drug exerts its effect on the human body is unknown, it does appear to operate as a selective gaba reuptake inhibitor.</desc>
+  </node>
+  <node id="207" name="paricalcitol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic vitamin d analog. this drug has been used to reduce parathyroid hormone levels. this drug is indicated for the prevention and treatment of secondary hyperparathyroidism associated with chronic renal failure.</desc>
+  </node>
+  <node id="208" name="anileridine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic opioid and strong analgesic medication. it is a narcotic pain reliever used to treat moderate to severe pain. narcotic analgesics act in the central nervous system (cns) to relieve pain. some of their side effects are also caused by actions in the cns.</desc>
+  </node>
+  <node id="209" name="tipranavir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a sulfonamide-containing dyhydropyrone and a nonpeptidic protease inhibitor that targets the hiv protease. it is administered with ritonavir in combination therapy to treat hiv infections.</desc>
+  </node>
+  <node id="210" name="salmeterol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a long-acting beta2-adrenergic receptor agonist drug that is currently prescribed for the treatment of asthma and chronic obstructive pulmonary disease copd.</desc>
+  </node>
+  <node id="211" name="hexafluronium" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug bromide is a neuromuscular blocking agent used in anesthesiology to prolong and potentiate the skeletal muscle relaxing action of suxamethonium during surgery. it is known to bind and block the activity of plasma cholinesterases.</desc>
+  </node>
+  <node id="212" name="cycrimine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug used to reduce levels of acetylcholine to return a balance with dopamine in the treatment and management of parkinson's disease.</desc>
+  </node>
+  <node id="213" name="naratriptan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a triptan drug used for the treatment of migraine headaches. it is a selective 5-hydroxytryptamine1 receptor subtype agonist.</desc>
+  </node>
+  <node id="214" name="rizatriptan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a triptan drug used for the treatment of migraine headaches. it is a selective 5-hydroxytryptamine1 receptor subtype agonist.</desc>
+  </node>
+  <node id="215" name="dirithromycin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a macrolide glycopeptide antibiotic. it is used to treat many different types of bacterial infections, such as bronchitis, pneumonia, tonsillitis, and even skin infections.</desc>
+  </node>
+  <node id="216" name="norgestimate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a form of progesterone, which is a female hormone important for the regulation of ovulation and menstruation. this drug is used with estradiol to treat the symptoms of menopause.</desc>
+  </node>
+  <node id="217" name="zaleplon" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a sedative/hypnotic, mainly used for insomnia. it is known as a nonbenzodiazepine hypnotic. this drug interacts with the gaba receptor complex and shares some of the pharmacological properties of the benzodiazepines. this drug is a schedule iv drug in the united states.</desc>
+  </node>
+  <node id="218" name="apraclonidine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, also known as iopidine, is a sympathomimetic used in glaucoma therapy. it is an alpha2-adrenergic agonist.</desc>
+  </node>
+  <node id="219" name="ethiodized_oil" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is used by injection as a radio-opaque contrast agent. it is composed of iodine combined with ethyl esters of fatty acids of poppyseed oil, primarily as ethyl monoiodostearate and ethyl diiodostearate. the precise structure is not known.</desc>
+  </node>
+  <node id="220" name="azelastine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, a phthalazine derivative, is an antihistamine and mast cell stabilizer available as a nasal spray for hay fever and as eye drops for allergic conjunctivitis.</desc>
+  </node>
+  <node id="221" name="ezetimibe" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anti-hyperlipidemic medication which is used to lower cholesterol levels. specifically, it appears to bind to a critical mediator of cholesterol absorption, the niemann-pick c1-like 1 (npc1l1) protein on the gastrointestinal tract epithelial cells as well as in hepatocytes.</desc>
+  </node>
+  <node id="222" name="dipyridamole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a phosphodiesterase inhibitor that blocks uptake and metabolism of adenosine by erythrocytes and vascular endothelial cells. this drug also potentiates the antiaggregating action of prostacyclin. (from ama drug evaluations annual, 1994, p752)</desc>
+  </node>
+  <node id="223" name="lomefloxacin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a fluoroquinolone antibiotic, used to treat bacterial infections including bronchitis and urinary tract infections. it is also used to prevent urinary tract infections prior to surgery.</desc>
+  </node>
+  <node id="224" name="ramelteon" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the first in a new class of sleep agents that selectively binds to the melatonin receptors in the suprachiasmatic nucleus (scn). it is used for insomnia, particularly delayed sleep onset. this drug has not been shown to produce dependence and has shown no potential for abuse.</desc>
+  </node>
+  <node id="225" name="dimenhydrinate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (dramamine, gravol and vertirosan) is an over-the-counter drug used to prevent motion sickness. it is closely related to diphenhydramine hcl, or benadryl. it is primarily a h1-antagonist, but also possesses an antimuscarinic effect.</desc>
+  </node>
+  <node id="226" name="glycopyrrolate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic anticholinergic agent with a quaternary ammonium structure. a muscarinic competitive antagonist used as an antispasmodic, in some disorders of the gastrointestinal tract, and to reduce salivation with some anesthetics. </desc>
+  </node>
+  <node id="227" name="rivastigmine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a parasympathomimetic or cholinergic agent for the treatment of mild to moderate dementia of the alzheimer's type. this drug is a cholinesterase inhibitor that inhibits both butyrylcholinesterase and acetylcholinesterase.</desc>
+  </node>
+  <node id="228" name="oxaprozin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a non-narcotic, non-steroidal anti-inflammatory drug (nsaid), used to relieve the inflammation, swelling, stiffness, and joint pain associated with osteoarthritis and rheumatoid arthritis.</desc>
+  </node>
+  <node id="229" name="methyl_aminolevulinate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a prodrug that is metabolised to protoporphyrin ix (a photosensitizer) used in photodynamic therapy.</desc>
+  </node>
+  <node id="230" name="auranofin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a organogold compound classified by the world health organization as an antirheumatic agent. this drug appears to induce heme oxygenase 1 (ho-1) mrna. heme oxygenase 1 is an inducible heme-degrading enzyme with anti-inflammatory properties.</desc>
+  </node>
+  <node id="231" name="levobupivacaine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an amino-amide local anaesthetic drug belonging to the family of n-alkylsubstituted</desc>
+  </node>
+  <node id="232" name="ganciclovir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an acyclovir analog that is a potent inhibitor of the herpesvirus family including cytomegalovirus. this drug is used to treat complications from aids-associated cytomegalovirus infections. </desc>
+  </node>
+  <node id="233" name="letrozole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (inn, trade name femara®) is an oral non-steroidal aromatase inhibitor that has been introduced for the adjuvant treatment of hormonally-responsive breast cancer</desc>
+  </node>
+  <node id="234" name="ketoprofen" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (nsaia) with analgesic and antipyretic properties.</desc>
+  </node>
+  <node id="235" name="balsalazide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anti-inflammatory drug used in the treatment of inflammatory bowel disease. it is sold under the name "colazal" in the us and "colazide" in the uk.</desc>
+  </node>
+  <node id="236" name="isosorbide_mononitrate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug used principally in the treatment of angina pectoris[1] and acts by dilating the blood vessels so as to reduce the blood pressure. it is sold by astrazeneca under the trade name imdur.</desc>
+  </node>
+  <node id="237" name="tolterodine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antimuscarinic drug that is used to treat urinary incontinence. this drug acts on m2 and m3 subtypes of muscarinic receptors.</desc>
+  </node>
+  <node id="238" name="carphenazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antipsychotic drug, used in hospitalized patients in the management of chronic schizophrenic psychoses.</desc>
+  </node>
+  <node id="239" name="hydroxystilbamidine_isethionate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is used in the therapy of some patients with nonprogressive blastomycosis of the skin, and pulmonary or systemic blastomycosis in children, with fewer side effects than amphotericin b. this drug is also used in pathology for diagnostic purposes.</desc>
+  </node>
+  <node id="240" name="melphalan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an alkylating nitrogen mustard that is used as an antineoplastic in the form of the levo isomer - this drug, the racemic mixture - merphalan, and the dextro isomer - medphalan; toxic to bone marrow, but little vesicant action; potential carcinogen. </desc>
+  </node>
+  <node id="241" name="abacavir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (abc) is a powerful nucleoside analog reverse transcriptase inhibitor (nrti) used to treat hiv and aids. </desc>
+  </node>
+  <node id="242" name="ergoloid_mesylate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a dihydrogenated ergot (claviceps purpurea) derivative alkaloid used as a vasodilator agent.  this drug is the only vasodilator that has shown mild benefits in the treatment of vascular dementia.</desc>
+  </node>
+  <node id="243" name="ibuprofen" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, a propionic acid derivative, is a prototypical nonsteroidal anti-inflammatory agent (nsaia) with analgesic and antipyretic properties.</desc>
+  </node>
+  <node id="244" name="novobiocin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an antibiotic compound derived from streptomyces niveus. it has a chemical structure similar to coumarin. this drug binds to dna gyrase, and blocks adenosine triphosphatase (atpase) activity.  (from reynolds, martindale the extra pharmacopoeia, 30th ed, p189) </desc>
+  </node>
+  <node id="245" name="norfloxacin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a synthetic fluoroquinolone (fluoroquinolones) with broad-spectrum antibacterial activity against most gram-negative and gram-positive bacteria. this drug inhibits bacterial dna gyrase. </desc>
+  </node>
+  <node id="246" name="amoxicillin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a broad-spectrum semisynthetic antibiotic similar to ampicillin except that its resistance to gastric acid permits higher serum levels with oral administration. this drug is commonly prescribed with clauvanic acid (a beta lactamase inhibitor) as it is susceptible to beta-lacatamase degradation. </desc>
+  </node>
+  <node id="247" name="acetophenazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antipsychotic drug of moderate-potency. it is used in the treatment of disorganized and psychotic thinking. it is also used to help treat false perceptions (e.g. hallucinations or delusions). it primarily targets the dopamine d2 receptor.</desc>
+  </node>
+  <node id="248" name="cefditoren" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a third-generation cephalosporin antibiotic for oral use. it is commonly marketed under the trade name spectracef by cornerstone biopharma.</desc>
+  </node>
+  <node id="249" name="fludarabine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (marketed as this drug phosphate under the trade name fludara) is a chemotherapy drug used in the treatment of hematological malignancies. </desc>
+  </node>
+  <node id="250" name="emedastine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antihistamine used in eye drops to treat allergic conjunctivitis. </desc>
+  </node>
+  <node id="251" name="pilocarpine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a slowly hydrolyzed muscarinic agonist with no nicotinic effects. this drug is used as a miotic and in the treatment of glaucoma. </desc>
+  </node>
+  <node id="252" name="iloprost" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic analogue of prostacyclin pgi2. this drug dilates systemic and pulmonary arterial vascular beds. it is used to treat pulmonary arterial hypertension (pah).</desc>
+  </node>
+  <node id="253" name="deserpidine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an ester alkaloid drug isolated from rauwolfia canescens (family apocynaceae) with antipsychotic and antihypertensive properties that has been used for the control of high blood pressure and for the relief of psychotic behavior.</desc>
+  </node>
+  <node id="254" name="butenafine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug hydrochloride is a synthetic benzylamine antifungal agent. this drug works by inhibiting the synthesis of sterols by inhibiting squalene epoxidase, an enzyme responsible for the creation of sterols needed in fungal cell membranes.</desc>
+  </node>
+  <node id="255" name="hesperetin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug belongs to the flavanone class of flavonoids. this drug, in the form of its glycoside hesperidin, is the predominant flavonoid in lemons and oranges.</desc>
+  </node>
+  <node id="256" name="leflunomide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a pyrimidine synthesis inhibitor belonging to the dmard (disease-modifying antirheumatic drug) class of drugs, which are chemically and pharmacologically very heterogeneous. this drug was approved by fda and in many other countries (e.g., canada, europe) in 1999.</desc>
+  </node>
+  <node id="257" name="capecitabine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an orally-administered chemotherapeutic agent used in the treatment of metastatic breast and colorectal cancers. this drug is a prodrug, that is enzymatically converted to fluorouracil (antimetabolite) in the tumor, where it inhibits dna synthesis and slows growth of tumor tissue.</desc>
+  </node>
+  <node id="258" name="levocabastine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a selective second-generation h1-receptor antagonist used for allergic conjunctivitis. this drug was discovered at janssen pharmaceutica in 1979.</desc>
+  </node>
+  <node id="259" name="trilostane" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an inhibitor of 3 beta-hydroxysteroid dehydrogenase used in the treatment of cushing's syndrome. it was withdrawn from the united states market in april 1994. </desc>
+  </node>
+  <node id="260" name="colistimethate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antibiotic that has been shown to have bactericidal activity against aerobic gram-negative microorganisms. this drug is particularly indicated when the infection is caused by sensitive strains of pseudomonas aeruginosa.</desc>
+  </node>
+  <node id="261" name="phenacemide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is used to control certain seizures in the treatment of epilepsy. this medicine acts on the central nervous system (cns) to reduce the number and severity of seizures.</desc>
+  </node>
+  <node id="262" name="ambenonium" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a cholinesterase inhibitor used in the management of myasthenia gravis. </desc>
+  </node>
+  <node id="263" name="anisindione" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic anticoagulant and an indanedione derivative. it prevents the formation of active procoagulation factors ii, vii, ix, and x, as well as the anticoagulant proteins c and s, in the liver by inhibiting the vitamin k-mediated gamma-carboxylation of precursor proteins.</desc>
+  </node>
+  <node id="264" name="bicalutamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an oral non-steroidal anti-androgen for prostate cancer. it binds to the androgen receptor.</desc>
+  </node>
+  <node id="265" name="tiludronate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a bisphosphonate characterized by a (4-chlorophenylthio) group on the carbon atom of the basic p-c-p structure common to all bisphosphonates.</desc>
+  </node>
+  <node id="266" name="doxacurium_chloride" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a long-acting, nondepolarizing skeletal muscle relaxant for intravenous administration.</desc>
+  </node>
+  <node id="267" name="carvedilol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a non-selective beta blocker indicated in the treatment of mild to moderate congestive heart failure (chf). it blocks beta-1 and beta-2 adrenergic receptors as well as the alpha-1 adrenergic receptors.</desc>
+  </node>
+  <node id="268" name="micafungin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antifungal drug. it belongs to the antifungal class of compounds known as echinocandins and exerts its effect by inhibiting the synthesis of 1,3-beta-d-glucan, an integral component of the fungal cell wall.</desc>
+  </node>
+  <node id="269" name="sulfoxone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a water-soluble sulfone used as an antileprosy drug. it has been used with limited success in the treatment of dermatitis herpetiformis.</desc>
+  </node>
+  <node id="270" name="cefprozil" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a cephalosporin antibiotic. it can be used to treat bronchitis, ear infections, skin infections, and other bacterial infections.</desc>
+  </node>
+  <node id="271" name="candicidin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antibiotic obtained from a streptomyces (streptomyces griseus) and active against some fungi of the genus candida (c. albicans). this drug is administered intravaginally in the treatment of vulvovaginal candidiasis.</desc>
+  </node>
+  <node id="272" name="sertaconazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug nitrate is an antifungal medication of the imidazole class. it is available as a cream to treat skin infections such as athlete's foot. </desc>
+  </node>
+  <node id="273" name="dinoprost_tromethamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>the tromethamine (tham) salt of the naturally occurring prostaglandin f2 alpha, this drug occurs as a white to off-white, very hygroscopic, crystalline powder. this drug may also be known as dinoprost trometamol, pgf2 alpha tham, or prostaglandin f2 alpha tromethamine.</desc>
+  </node>
+  <node id="274" name="kanamycin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>antibiotic complex produced by streptomyces kanamyceticus from japanese soil. comprises 3 components: this drug a, the major component, and this drugs b and c, the minor components. </desc>
+  </node>
+  <node id="275" name="rescinnamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an angiotensin-converting enzyme inhibitor used as an antihypertensive drug. it is an alkaloid obtained from <i>rauwolfia serpentina</i> and other species of <i>rauwolfia</i>. </desc>
+  </node>
+  <node id="276" name="ciclopirox" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (also called loprox®, penlac® and stieprox®) is a synthetic antifungal agent for topical dermatologic use. </desc>
+  </node>
+  <node id="277" name="zopiclone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a novel hypnotic agent used in the treatment of insomnia. its mechanism of action is based on modulating benzodiazepine receptors. in addition to this drug's benzodiazepine pharmacological properties it also has some barbiturate like properties.</desc>
+  </node>
+  <node id="278" name="rifapentine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antibiotic drug used in the treatment of tuberculosis. it inhibits dna-dependent rna polymerase activity in susceptible cells. specifically, it interacts with bacterial rna polymerase but does not inhibit the mammalian enzyme.</desc>
+  </node>
+  <node id="279" name="nadolol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. this drug is also used for migraine disorders and for tremor. </desc>
+  </node>
+  <node id="280" name="ridogrel" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a dual action drug useful for the prevention of systemic thrombo-embolism and as an adjunctive agent to thrombolytic therapy in acute myocardial infarction. however, there currently are no clinical indications for preferential use of this drug over aspirin.</desc>
+  </node>
+  <node id="281" name="dezocine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a partial opiate drug and is used for pain management. this drug is a very effective alternative to fentanyl when administered during outpatient laparoscopy, although is associated with an increased incidence of postoperative nausea.</desc>
+  </node>
+  <node id="282" name="fomepizole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is used as an antidote in confirmed or suspected methanol or ethylene glycol poisoning. this drug is a competitive inhibitor of alcohol dehydrogenase, the enzyme that catalyzes the initial steps in the metabolism of ethylene glycol and methanol to their toxic metabolites.</desc>
+  </node>
+  <node id="283" name="dantrolene" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>chemically, this drug is a hydantoin derivative, but does not exhibit antiepileptic activity like other hydantoin derivates such as phenytoin.</desc>
+  </node>
+  <node id="284" name="rifaximin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a semisynthetic, rifamycin-based non-systemic antibiotic, meaning that the drug will not pass the gastrointestinal wall into the circulation as is common for other types of orally administered antibiotics. it is used to treat diarrhea caused by e. coli.</desc>
+  </node>
+  <node id="285" name="ketamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a cyclohexanone derivative used for induction of anesthesia. its mechanism of action is not well understood, but this drug can block nmda receptors (receptors, n-methyl-d-aspartate) and may interact with sigma receptors. </desc>
+  </node>
+  <node id="286" name="aminophylline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug combination that contains theophylline and ethylenediamine in 2:1 ratio. </desc>
+  </node>
+  <node id="287" name="mivacurium" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a bisbenzylisoquinolinium based neuromuscular blocker or muscle relaxant. it binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in a block of neuromuscular transmission.</desc>
+  </node>
+  <node id="288" name="pemoline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>in 2005, the food and drug administration (fda) withdrew approval for this drug. in march 2005, abbott laboratories (cylert marketer) had discontinued the production of cylert arguing economic reasons.</desc>
+  </node>
+  <node id="289" name="diphenidol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an antiemetic agent used in the treatment of vomiting and vertigo. this drug overdose may result in serious toxicity in children.</desc>
+  </node>
+  <node id="290" name="bromodiphenhydramine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an ethanolamine antihistamine with antimicrobial property. this drug is used in the control of cutaneous allergies. ethanolamine antihistamines produce marked sedation in most patients</desc>
+  </node>
+  <node id="291" name="chlorprothixene" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a typical antipsychotic drug of the thioxanthene (tricyclic) class. this drug exerts strong blocking effects by blocking the 5-ht2 d1, d2, d3, histamine h1, muscarinic and alpha1 adrenergic receptors.</desc>
+  </node>
+  <node id="292" name="chloroxine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic antibacterial compound. this drug is a compound used in some shampoos for the treatment of dandruff and seborrheic dermatitis of the scalp.</desc>
+  </node>
+  <node id="293" name="decamethonium" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a short acting depolarizing muscle relaxant or neuromuscular blocking agent, and is used in anesthesia to induce paralysis. it is similar to acetylcholine and acts as a partial agonist of the nicotinic acetylcholine receptor.</desc>
+  </node>
+  <node id="294" name="iodixanol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a nonionic hydrophilic compound commonly used as a contrast agent during coronary angiography, particularly in individuals with renal dysfunction, as it is believed to be less toxic to the kidneys than most other intravascular contrast agents.</desc>
+  </node>
+  <node id="295" name="mitiglinide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug for the treatment of type 2 diabetes .this drug is thought to stimulate insulin secretion by closing the atp-sensitive k(+) (k(atp)) channels in pancreatic beta-cells.</desc>
+  </node>
+  <node id="296" name="dasatinib" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an oral dual bcr/abl and src family tyrosine kinase inhibitor approved for use in patients with chronic myelogenous leukemia (cml). the main targets of this drug, are bcrabl, src, ephrins and gfr.</desc>
+  </node>
+  <node id="297" name="retapamulin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a topical antibiotic developed by glaxosmithkline. it was approved by the united states food and drug administration in april 2007 for the treatment of bacterial skin infections such as impetigo. it is marketed as an ointment under the name brand altabax.</desc>
+  </node>
+  <node id="298" name="aliskiren" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a renin inhibitor. it was approved by the u.s. food and drug administration in 2007 for the treatment of hypertension.</desc>
+  </node>
+  <node id="299" name="posaconazole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a triazole antifungal drug that is used to treat invasive infections by candida species and aspergillus species in severely immunocompromised patients.</desc>
+  </node>
+  <node id="300" name="darunavir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a protease inhibitor used to treat hiv. it acts on the hiv aspartyl protease which the virus needs to cleave the hiv polyprotein into its functional fragments.</desc>
+  </node>
+  <node id="301" name="telbivudine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a synthetic thymidine nucleoside analog with specific activity against the hepatitis b virus. this drug is orally administered, with good tolerance, lack of toxicity and no dose-limiting side effects.</desc>
+  </node>
+  <node id="302" name="kunecatechins" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a partially purified fraction of the water extract of green tea leaves from camellia sinensis (l.) o kuntze. this drug are involved in the clearance of genital and perianal warts.</desc>
+  </node>
+  <node id="303" name="panitumumab" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (abx-egf) is a recombinant human igg2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (egfr). this drug is an antineoplastic agent.</desc>
+  </node>
+  <node id="304" name="exenatide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug, derived from a compound found in the saliva of the gila monster, a large lizard native to the southwestern us, is a functional analog of glucagon-like peptide-1 (glp-1), a naturally occuring peptide.</desc>
+  </node>
+  <node id="305" name="nelarabine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a chemotherapy drug used in t-cell acute lymphoblastic leukemia. this drug is a purine nucleoside analog converted to its corresponding arabinosylguanine nucleotide triphosphate (aragtp), resulting in inhibition of dna synthesis and cytotoxicity.</desc>
+  </node>
+  <node id="306" name="carbetocin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug used to control postpartum hemorrhage, bleeding after giving birth. it is an analogue of oxytocin, and its action is similar to that of oxytocin -- it causes contraction of the uterus.</desc>
+  </node>
+  <node id="307" name="corticotropin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (acth or adrenocorticotropic hormone) is a polypeptide hormone produced and secreted by the pituitary gland. it is an important player in the hypothalamic-pituitary-adrenal axis.</desc>
+  </node>
+  <node id="308" name="dihydroergotoxine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a cerebral vasodilator. this drug is a mixture of three different ergotamantriones: dihydroergocornine, dihydroergocristine, and dihydroergocryptine. it has been proposed to be a neuroprotective agent. the mechanism of its therapeutic actions is not clear.</desc>
+  </node>
+  <node id="309" name="fosamprenavir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a prodrug of amprenavir, an inhibitor of human immunodeficiency virus (hiv) protease.</desc>
+  </node>
+  <node id="310" name="quinethazone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (inn, brand name hydromox) is a thiazide diuretic used to treat hypertension. common side effects include dizziness, dry mouth, nausea, and low potassium levels.</desc>
+  </node>
+  <node id="311" name="cefamandole" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (inn, also known as cephamandole) is a broad-spectrum cephalosporin antibiotic. the clinically used form of this drug is the formate ester this drug nafate, a prodrug which is administered parenterally. this drug is no longer available in the united states.</desc>
+  </node>
+  <node id="312" name="cefoxitin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a semi-synthetic, broad-spectrum cepha antibiotic for intravenous administration. it is derived from cephamycin c, which is produced by <i>streptomyces lactamdurans</i>.</desc>
+  </node>
+  <node id="313" name="metocurine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>dimethyltubocurarinium (inn) or this drug (usan), also known as dimethyltubocurarine, is a non-depolarizing muscle relaxant. patients on chronic anticonvulsant drugs are relatively resistant to this drug.(pmid: 9915319)</desc>
+  </node>
+  <node id="314" name="pipecuronium" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a piperazinyl androstane derivative which is a non-depolarizing neuromuscular blocking agent.</desc>
+  </node>
+  <node id="315" name="cilazapril" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>one of the angiotensin-converting enzyme inhibitors (ace inhibitors) used for hypertension.  it is a prodrug that is hydrolyzed after absorption to its main metabolite this drugat. </desc>
+  </node>
+  <node id="316" name="tasosartan" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a long-acting angiotensin ii (angii) receptor blocker. its long duration of action has been attributed to its active metabolite enolthis drug. it is used to treat patients with essential hypertension</desc>
+  </node>
+  <node id="317" name="butethal" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a sedative and a hypnotic drug.</desc>
+  </node>
+  <node id="318" name="heptabarbital" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an intermediate or short term barbiturate used mainly for sedation and hypnosis.</desc>
+  </node>
+  <node id="319" name="penbutolol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a medication in the class of beta blockers, used in the treatment of high blood pressure. </desc>
+  </node>
+  <node id="320" name="iohexol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an effective non-ionic, water-soluble contrast agent which is used in myelography, arthrography, nephroangiography, arteriography, and other radiographic procedures. its low systemic toxicity is the combined result of low chemotoxicity and low osmolality. </desc>
+  </node>
+  <node id="321" name="ephedra" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an alkaloid chemical compound traditionally obtained from the plant <i>this drug sinica</i>. the sale of this drug-containing supplements was banned in the united states in 2004. the drug is still sold in canada in otc formulations.</desc>
+  </node>
+  <node id="322" name="rasagiline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an irreversible inhibitor of monoamine oxidase and is used as a monotherapy in early parkinson's disease or as an adjunct therapy in more advanced cases.</desc>
+  </node>
+  <node id="323" name="dihydroxyaluminium" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>aluminium monostearate is an organic compound which is a salt of stearic acid and aluminium. it has the molecular formula al(oh)2c18h35o2. it is also referred to as this drug or dihydroxy(stearato)aluminium.</desc>
+  </node>
+  <node id="324" name="magnesium_oxide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an inorganic compound that occurs in nature as the mineral periclase. in aqueous media combines quickly with water to form magnesium hydroxide. it is used as an antacid and mild laxative and has many nonmedicinal uses. </desc>
+  </node>
+  <node id="325" name="mibefradil" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug was withdrawn from the market in 1998 because of potentially harmful interactions with other drugs.</desc>
+  </node>
+  <node id="326" name="sodium_bicarbonate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a white, crystalline powder that is commonly used as a ph buffering agent, an electrolyte replenisher, systemic alkalizer and in topical cleansing solutions.</desc>
+  </node>
+  <node id="327" name="yohimbine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a plant alkaloid with alpha-2-adrenergic blocking activity. this drug has been used as a mydriatic and in the treatment of impotence. it is also alleged to be an aphrodisiac. </desc>
+  </node>
+  <node id="328" name="magnesium_salicylate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a common analgesic and non-steroidal anti-inflammatory drug (nsaid) used to treat mild to moderate muscular pain. it is also used to treat headaches, general back pain, and certain joint pains like arthritis.</desc>
+  </node>
+  <node id="329" name="neostigmine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a cholinesterase inhibitor used in the treatment of myasthenia gravis and to reverse the effects of muscle relaxants such as gallamine and tubocurarine. this drug, unlike physostigmine, does not cross the blood-brain barrier. </desc>
+  </node>
+  <node id="330" name="ginseng" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is promoted as an adaptogen (a product that increases the body's resistance to stress), one which can to a certain extent be supported with reference to its anticarcinogenic and antioxidant properties. this drug is also known to contain phytoestrogens.</desc>
+  </node>
+  <node id="331" name="temafloxacin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a fluoroquinolone antibiotic drug which was withdrawn from sale in the u.s. shortly after its approval in 1992 because of serious adverse reactions resulting in three deaths. </desc>
+  </node>
+  <node id="332" name="bambuterol" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a long acting beta-adrenoceptor agonist used in the treatment of asthma. it is a prodrug of terbutaline.</desc>
+  </node>
+  <node id="333" name="ciclesonide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a glucocorticoid used to treat obstructive airway diseases. it is marketed under the brand name alvesco.</desc>
+  </node>
+  <node id="334" name="pranlukast" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a cysteinyl leukotriene receptor-1 antagonist. it antagonizes or reduces bronchospasm caused, principally in asthmatics, by an allergic reaction to accidentally or inadvertently encountered allergens.</desc>
+  </node>
+  <node id="335" name="ceftibuten" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a third-generation cephalosporin antibiotic. it is an orally-administered agent. cefalexin is used to treat acute bacterial exacerbations of chronic bronchitis (abecb), acute bacterial otitis media, pharyngitis, and tonsilitis.</desc>
+  </node>
+  <node id="336" name="antrafenine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a piperazine derivative drug that acts as an analgesic and anti-inflammatory drug with similar efficacy to naproxen. it is not widely used as it has largely been replaced by newer drugs.</desc>
+  </node>
+  <node id="337" name="nitroxoline" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a urinary antibacterial agent active against susceptible gram-positive and gram-negative organisms commonly found in urinary tract infections. it is a fluorquinolone that is active against bacterial gyrases.</desc>
+  </node>
+  <node id="338" name="alizapride" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a dopamine antagonist with prokinetic and antiemetic effects used in the treatment of nausea and vomiting, including postoperative nausea and vomiting.</desc>
+  </node>
+  <node id="339" name="amrinone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (or inthis drug) is a type 3 pyridine phosphodiesterase inhibitor. it is used in the treatment of congestive heart failure.</desc>
+  </node>
+  <node id="340" name="oxybenzone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an organic compound used in sunscreens. it is a derivative of benzophenone. it forms colorless crystals that are readily soluble in most organic solvents. it is used as an ingredient in sunscreen and other cosmetics because it absorbs uv-a ultraviolet rays.</desc>
+  </node>
+  <node id="341" name="cholestyramine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug or colestyramine is a bile acid sequestrant. bile acid sequestrants are polymeric compounds which serve as ion exchange resins. this drug resin is quite hydrophilic, but insoluble in water.</desc>
+  </node>
+  <node id="342" name="19-norandrostenedione" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug refers to two steroid isomers that are marketed as dietary supplements and mainly used by body builders.</desc>
+  </node>
+  <node id="343" name="antipyrine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>an analgesic and antipyretic that has been given by mouth and as ear drops. this drug is often used in testing the effects of other drugs or diseases on drug-metabolizing enzymes in the liver. (from martindale, the extra pharmacopoeia, 30th ed, p29)</desc>
+  </node>
+  <node id="344" name="diethyltryptamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (det) is an orally active hallucinogenic drug and psychedelic compound of moderate duration. det is a substituted tryptamine, structurally similar to dmt and dipropyltryptamine (dpt). </desc>
+  </node>
+  <node id="345" name="ethylmorphine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a narcotic analgesic and antitussive. it is metabolized in the liver by this drug-n-demethylase and used as an indicator of liver function. </desc>
+  </node>
+  <node id="346" name="delta1-dihydrotestosterone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anabolic steroid that differs from testosterone by having a 1,2-double bond instead of 4,5-double bond in its a ring. </desc>
+  </node>
+  <node id="347" name="barbital" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a long-acting barbiturate that depresses most metabolic processes at high doses. it is used as a hypnotic and sedative and may induce dependence. this drug is also used in veterinary practice for central nervous system depression. </desc>
+  </node>
+  <node id="348" name="cathine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (β-hydroxyamphetamine) is a monoamine alkaloid found in the shrub catha edulis (khat). this drug is a schedule iii drug under the convention on psychotropic substances. in the united states, it is classified as a schedule iv controlled substance. </desc>
+  </node>
+  <node id="349" name="benzoylecgonine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the major metabolite of cocaine. it is formed by hydrolysis of cocaine in the liver, catalysed by carboxylesterases. it is excreted in the urine of cocaine users after processing in the liver. </desc>
+  </node>
+  <node id="350" name="17alpha-methyl-4-hydroxynandrolone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a schedule 3 anabolic steroid.</desc>
+  </node>
+  <node id="351" name="boldenone" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an anabolic steroid developed for veterinary use, mostly for treatment of horses. it is not indicated for use in humans in the us and is only available through veterinary clinics.</desc>
+  </node>
+  <node id="352" name="rolicyclidine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (pcpy) is a dissociative anesthetic drug with hallucinogenic and sedative effects. due to its similarity in effects to pcp, pcpy was placed into the schedule i list of illegal drugs in the 1970s, although it has never been widely abused and is now little known.</desc>
+  </node>
+  <node id="353" name="clotiazepam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a benzodiazepine derivative, not approved for sale in the u.s. or canada, but has been approved in the u.k. it is a schedule iv drug in canada.</desc>
+  </node>
+  <node id="354" name="chloral_hydrate" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>a hypnotic and sedative used in the treatment of insomnia. the safety margin is too narrow for this drug to be used as a general anesthetic in humans, but it is commonly used for that purpose in animal experiments. it is no longer considered useful as an anti-anxiety medication. </desc>
+  </node>
+  <node id="355" name="fludiazepam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug which is a benzodiazepine derivative. it possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. it is a scheduled drug in the u.s., but is approved for use in japan.</desc>
+  </node>
+  <node id="356" name="dextroamphetamine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is the dextrorotary stereoisomer of the amphetamine molecule, which can take two different forms. it is a slightly polar, weak base and is lipophilic.</desc>
+  </node>
+  <node id="357" name="metrizamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a solute for density gradient centrifugation offering higher maximum solution density without the problems of increased viscosity. it is also used as a resorbable, non-ionic contrast medium.</desc>
+  </node>
+  <node id="358" name="phendimetrazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a weight loss medication. this drug is chemically related to amphetamines and is a schedule iii drug under the convention on psychotropic substances. in the united states, this drug is a schedule iii controlled substance under the uniform controlled substances act of 1970.</desc>
+  </node>
+  <node id="359" name="ketazolam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug which is a benzodiazepine derivative. it possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. this drug is not approved for sale in the united states or canada.</desc>
+  </node>
+  <node id="360" name="prazepam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a benzodiazepine that is used in the treatment of anxiety disorders. it is a schedule iv drug in the u.s.</desc>
+  </node>
+  <node id="361" name="quazepam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a drug which is a benzodiazepine derivative. it induces impairment of motor function and has hypnotic properties. this drug is used to treat insomnia.</desc>
+  </node>
+  <node id="362" name="solifenacin" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (rinn), marketed as this drug succinate under the trade name vesicare, is a urinary antispasmodic of the anticholinergic class. it is used in the treatment of overactive bladder with urge incontinence. </desc>
+  </node>
+  <node id="363" name="cinolazepam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a benzodiazepine derivative. it possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. this drug is not approved for sale in the united states or canada.</desc>
+  </node>
+  <node id="364" name="tiaprofenic_acid" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a non-steroidal anti-inflammatory drug of the arylpropionic acid (profen) class, used to treat pain, especially arthritic pain.</desc>
+  </node>
+  <node id="365" name="lopinavir" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (abt-378) is an antiretroviral of the protease inhibitor class. it is marketed by abbott as kaletra, a co-formulation with a sub-therapeutic dose of ritonavir, as a component of combination therapy to treat hiv/aids.</desc>
+  </node>
+  <node id="366" name="pivmecillinam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a mecillinam prodrug, a pivaloyloxymethyl ester of amdinocillin that is well absorbed orally, but broken down to amdinocillin in the intestinal mucosa. it is active against gram-negative organisms and used as for amdinocillin. </desc>
+  </node>
+  <node id="367" name="tazobactam" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is a antibacterial penicillin derivative which inhibits the action of bacterial beta-lactamases.</desc>
+  </node>
+  <node id="368" name="deferasirox" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is an oral iron chelator. its main use is to reduce chronic iron overload in patients who are receiving long term blood transfusions for conditions such as beta-thalassemia and other chronic anemias. it is the first oral medication approved in the usa for this purpose.</desc>
+  </node>
+  <node id="369" name="acepromazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug is one of the phenothiazine derivative psychotropic drugs, used little in humans, however frequently in animals as a sedative and antiemetic.</desc>
+  </node>
+  <node id="370" name="aceprometazine" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug (inn) is a prescription drug with neuroleptic and anti-histamine properties. it is not widely prescribed. it may be used in combination with meprobamate for the treatment of sleep disorders. this combination is available in france under the trade name mepronizine. </desc>
+  </node>
+  <node id="371" name="isopropamide" bgcolor="0xFF9999" url="http://www.maayanlab.net" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>this drug iodide is a long-acting quaternary anticholinergic drug. it is used in the treatment of peptic ulcer and other gastrointestinal disorders marked by hyperacidity and hypermotility.</desc>
+  </node>
+</network>

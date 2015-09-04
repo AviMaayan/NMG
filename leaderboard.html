@@ -1,0 +1,42 @@
+<html>
+	<head>
+	<script src="http://code.jquery.com/jquery-2.0.3.min.js" ></script>
+	
+ 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<script>
+		google.load("visualization", "1", {packages:["corechart"]});
+      	google.setOnLoadCallback(drawChart);
+      	function drawChart(){
+      		var url = "http://www.maayanlab.net/NASB15/NMG/test/giveRange.php";
+      		$.get(url, function(data){
+      			data = JSON.parse(data);
+      			data = $.map(data,function(value,key){
+      				value.unshift(key);
+      				value[2] = value[0] + '\nTotal Score:' + value[1] + '\nAverage Score:' + value[2];
+      				return [value];
+      			});
+            var usersCount = data.length;
+      			var dataTable = new google.visualization.DataTable();
+      			dataTable.addColumn('string','Users');
+      			dataTable.addColumn('number','Total Score');
+      			dataTable.addColumn({type:'string',role:'tooltip'});
+      			dataTable.addRows(data.slice(0,30));
+      			
+
+      			var options = {
+          title: 'NMG Leader Board ('+usersCount+' players in total)',
+          vAxis: {ticks: [], title: 'Users',  titleTextStyle: {color: 'black'}}
+        };
+
+        	var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+        	chart.draw(dataTable, options);
+
+      		});
+      	}
+
+		</script>
+	</head>
+	<body>
+		<div id="chart_div" style="width: 500px; height: 900px;"></div>
+	</body>
+</html>			

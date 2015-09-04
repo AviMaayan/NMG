@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network name='quiz'>
+<node>
+	<question>Does a microscope belong better to the definition of science or technology? </question>
+	<answer>Technology</answer>
+</node>
+<node>
+	<question>Why are complex systems difficult to define?</question>
+	<answer>Because they have many properties that make them</answer>
+</node>
+<node>
+	<question>Which of the following is not a general property of an agent?</question>
+	<answer>Four legs</answer>
+</node>
+<node>
+	<question>Sensors are agents or agent parts? </question>
+	<answer>Agent parts</answer>
+</node>
+<node>
+	<question>Are there complex systems inside human cells? </question>
+	<answer>Yes</answer>
+</node>
+<node>
+	<question>Why technological innovations are found at many remote places around the world?</question>
+	<answer>Because technological innovations tend to diffuse</answer>
+</node>
+<node>
+	<question>What is true about man-made complex systems vs. natural complex systems?</question>
+	<answer>Man-made systems evolve faster</answer>
+</node>
+<node>
+	<question>An ant is an example of:</question>
+	<answer>An agent and a closed complex system</answer>
+</node>
+<node>
+	<question>The plasma membrane can be considered which part of an agent?</question>
+	<answer>Boundary</answer>
+</node>
+<node>
+	<question>Receptors can be considered which part of an agent?</question>
+	<answer>Sensors</answer>
+</node>
+
+
+</network>
