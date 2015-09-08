@@ -12,11 +12,11 @@
 		
 		public function Options(_sWidth:Number,_sHeight:Number)
 		{
-			var p1:Option = new Option('Drug');
-			var p2:Option = new Option('Cell Type');
-			var p3:Option = new Option('Gene');
-			var p4:Option = new Option('Assay');
-			var p5:Option = new Option('Acronym');
+			var p1:Option = new Option('Drugs');
+			var p2:Option = new Option('Cell Types');
+			var p3:Option = new Option('Genes');
+			var p4:Option = new Option('Assays');
+			var p5:Option = new Option('Acronyms');
 
 
 			
