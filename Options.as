@@ -12,11 +12,11 @@
 		
 		public function Options(_sWidth:Number,_sHeight:Number)
 		{
-			var p1:Option = new Option('Drugs');
-			var p2:Option = new Option('Cell Types');
-			var p3:Option = new Option('Genes');
-			var p4:Option = new Option('Assays');
-			var p5:Option = new Option('Acronyms');
+				var p1:Option = new Option('Teams-PIs');
+			var p2:Option = new Option('KCs-Leads');
+			var p3:Option = new Option('KCs-Topics');
+			var p4:Option = new Option('Teams-PMs');
+			var p5:Option = new Option('Teams-KCs');
 
 
 			
@@ -37,35 +37,35 @@
 			
 			p1.addEventListener(MouseEvent.CLICK, function()
 			{
-				gameFile = 'drug_network.xml';
+				gameFile = 'teams_pis_network.xml';
 				selected= new Event("selected",true);
 			    dispatchEvent(selected);
 			});
 
 			p2.addEventListener(MouseEvent.CLICK, function()
 			{
-				gameFile = 'cell_network.xml';
+				gameFile = 'kcs_leads_network.xml';
 				selected= new Event("selected",true);
 			    dispatchEvent(selected);
 			});
 			
 			p3.addEventListener(MouseEvent.CLICK, function()
 			{
-				gameFile = 'gene_network.xml';
+				gameFile = 'kcs_topics_network.xml';
 				selected= new Event("selected",true);
 			    dispatchEvent(selected);
 			});
 			
 			p4.addEventListener(MouseEvent.CLICK, function()
 			{
-				gameFile = 'assay_network.xml';
+				gameFile = 'teams_pms_network.xml';
 				selected= new Event("selected",true);
 			    dispatchEvent(selected);
 			});
 			
 			p5.addEventListener(MouseEvent.CLICK, function()
 			{
-				gameFile = 'acronym_network.xml';
+				gameFile = 'teams_kcs_network.xml';
 				selected= new Event("selected",true);
 			    dispatchEvent(selected);
 			});
@@ -76,6 +76,7 @@
 			addChild(p3);
 			addChild(p4);
 			addChild(p5);
+
 
 
 			
