@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network name="groups-pis" backgroundcolor="0xffffff" edgeselectioncolor="0xF76541" nodeselectioncolor="0xF76541" fade="true" description="true" doubleclick="true" layoutmode="force">
+  <node id="1" name="Nitrogen" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC1</desc>
+  </node>
+  <node id="2" name="Helium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC1, KC2, KC3, KC4, KC5, KC6, KC7, KC8</desc>
+  </node>
+  <node id="4" name="Xenon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC2, KC3, KC4, KC5, KC6, KC7</desc>
+  </node>
+  <node id="5" name="Argon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC2, KC4, KC5, KC6, KC7</desc>
+  </node>
+  <node id="6" name="Carbon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC3, KC8</desc>
+  </node>
+  <node id="8" name="Oxygen" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC6, KC7</desc>
+  </node>
+  <node id="12" name="Sodium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC2</desc>
+  </node>
+  <node id="12" name="Calcium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC2, KC3, KC4, KC5, KC6, KC7, KC8</desc>
+  </node>
+  <node id="13" name="Phosphorus" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC7, KC9</desc>
+  </node>
+<node id="3" name="Copper" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>KC9</desc>
+  </node>  
+</network>

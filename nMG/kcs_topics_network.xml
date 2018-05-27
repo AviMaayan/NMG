@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network name="kcs-topics" backgroundcolor="0xffffff" edgeselectioncolor="0xF76541" nodeselectioncolor="0xF76541" fade="true" description="true" doubleclick="true" layoutmode="force">
+  <node id="1" name="KC1" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>FAIR Guidelines and Metrics</desc>
+  </node>
+  <node id="2" name="KC2" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>GUIDS (Global Unique Identifiers)</desc>
+  </node>
+  <node id="3" name="KC3" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Open standard APIs</desc>
+  </node>
+  <node id="4" name="KC4" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Cloud Agnostic Architectures</desc>
+  </node>
+  <node id="5" name="KC5" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Workspaces</desc>
+  </node>
+  <node id="6" name="KC6" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Research Ethics, Privacy and Security</desc>
+  </node>
+  <node id="7" name="KC7" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Indexing and Search</desc>
+  </node>
+  <node id="8" name="KC8" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Use Cases</desc>
+  </node>
+  <node id="9" name="KC9" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Coordination, Training and Outreach</desc>
+  </node>
+  </network>

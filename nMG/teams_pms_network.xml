@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network name="groups-pis" backgroundcolor="0xffffff" edgeselectioncolor="0xF76541" nodeselectioncolor="0xF76541" fade="true" description="true" doubleclick="true" layoutmode="force">
+  <node id="1" name="Nitrogen" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Avi Ma'ayan - Icahn School of Medicine at Mount Sinai</desc>
+  </node>
+  <node id="2" name="Helium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Kira Bradford - RENCI and the University of North Carolina</desc>
+  </node>
+  <node id="4" name="Xenon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Alison Leaf - Seven Bridges Genomics</desc>
+  </node>
+  <node id="5" name="Argon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Rick Globus - Globus</desc>
+  </node>
+  <node id="6" name="Carbon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Jessica Lyons - Harvard Medical School</desc>
+  </node>
+  <node id="8" name="Oxygen" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Elizabeth Bell - UC San Diego</desc>
+  </node>
+  <node id="12" name="Sodium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Julian Gautier - Harvard University</desc>
+  </node>
+  <node id="13" name="Phosphorus" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Victor Felix - University of Maryland School of Medicine</desc>
+  </node>
+  </network>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network name="groups-pis" backgroundcolor="0xffffff" edgeselectioncolor="0xF76541" nodeselectioncolor="0xF76541" fade="true" description="true" doubleclick="true" layoutmode="force">
+  <node id="1" name="Nitrogen" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Avi Ma'ayan - Icahn School of Medicine at Mount Sinai</desc>
+  </node>
+  <node id="2" name="Helium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Stan Ahalt - RENCI and the University of North Carolina</desc>
+  </node>
+  <node id="3" name="Copper" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Titus Brown - UC Davis</desc>
+  </node>
+  <node id="4" name="Xenon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Brandi Davis-Dusenbery - Seven Bridges Genomics</desc>
+  </node>
+  <node id="5" name="Argon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Ian Foster - The University of Chicago - Globus</desc>
+  </node>
+  <node id="6" name="Carbon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Isaac Kohane - Harvard Medical School</desc>
+  </node>
+  <node id="7" name="Carbon" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Paul Avillach - Harvard Medical School</desc>
+  </node>
+  <node id="8" name="Oxygen" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Lucila Ohno-Machado - UC San Diego</desc>
+  </node>
+  <node id="9" name="Calcium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Benedict Paten - UC Santa Cruz</desc>
+  </node>
+  <node id="10" name="Calcium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Robert Grossman - The University of Chicago</desc>
+  </node>
+  <node id="11" name="Calcium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Anthony Philppakis - Broad Institute</desc>
+  </node>
+  <node id="12" name="Sodium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Merce Crosas - Harvard University</desc>
+  </node>
+  <node id="13" name="Phosphorus" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Owen White - University of Maryland School of Medicine</desc>
+  </node>
+  <node id="14" name="Yttrium" bgcolor="0xFF9999" url="http://commonfund.nih.gov/bd2k" shape="box" textsize="20" textcolor="0x330000" xPos="990" yPos="0" fontstyle="bold">
+    <desc>Jennifer Ytrri - The MITRE Corporation</desc>
+  </node></network>
