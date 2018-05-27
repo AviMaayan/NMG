@@ -57,7 +57,7 @@
 
 	   var rankData:Array;
 	   
-	   var url:String = "http://www.maayanlab.net/NMG/2015/nMG/";
+	   var url:String = "http://www.maayanlab.net/NMG/2018/nMG/";
 	   //var url:String = "http://127.0.0.1/NMG/NMG2014/public/nMG/";
 	   
 	   public function nMG_Main()
